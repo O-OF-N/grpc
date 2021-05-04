@@ -1,8 +1,8 @@
 package client.ecommerce;
 
-import com.ecommerce.Product;
-import com.ecommerce.ProductId;
-import com.ecommerce.ProductResourceGrpc;
+import com.server.ecommerce.Product;
+import com.server.ecommerce.ProductId;
+import com.server.ecommerce.ProductResourceGrpc;
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
 

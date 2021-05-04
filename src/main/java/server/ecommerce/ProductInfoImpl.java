@@ -1,8 +1,8 @@
 package server.ecommerce;
 
-import com.ecommerce.Product;
-import com.ecommerce.ProductId;
-import com.ecommerce.ProductResourceGrpc.ProductResourceImplBase;
+import com.server.ecommerce.Product;
+import com.server.ecommerce.ProductId;
+import com.server.ecommerce.ProductResourceGrpc.ProductResourceImplBase;
 import io.grpc.Status;
 import io.grpc.StatusException;
 import io.grpc.stub.StreamObserver;
