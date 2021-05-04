@@ -1,0 +1,12 @@
+## Dotfiles
+.*
+
+## Maven
+target/
+dependency-reduced-pom.xml
+
+## IntelliJ
+*.iml
+
+## Explicit non-ignores
+!.gitignore
